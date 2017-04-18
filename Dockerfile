@@ -1,4 +1,4 @@
-FROM repo1.xqopen.cn:9443/richarvey/nginx-php-fpm:latest
+FROM richarvey/nginx-php-fpm:latest
 
 WORKDIR /var/www/html/
 
